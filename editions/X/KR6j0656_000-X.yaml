@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0656/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 作世水宅心陀羅尼
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X02/X02n0203.xml
+    old_id: X02n0203
+hash: sha256:169a47f7f73961fd5df418a5a28ac3148e7a01f8b5764e41198a29ccdb685e45

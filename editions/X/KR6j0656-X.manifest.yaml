@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0656/X/v1
+canonical_location: https://kanripo.org/bkk/KR6j0656/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 作世水宅心陀羅尼
+  identifiers:
+    krp: KR6j0656
+    cbeta: X02n0203
+    cbeta_old_id: X02n0203
+    authorityid: CA0004005
+    json_key: X0203
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X02/X02n0203.xml
+    old_id: X02n0203
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0656_000-X.yaml, hash: 'sha256:169a47f7f73961fd5df418a5a28ac3148e7a01f8b5764e41198a29ccdb685e45'}
+  - {seq: 1, filename: KR6j0656_001-X.yaml, hash: 'sha256:ef31853049b9bdd0072565b2d0ef023f003c3d9f539911d4c83e2e21750eaa64'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0656_000-X.markers.yaml, hash: 'sha256:cb1e22c7d8f412c3cc399e621aaf2bc5dab59518a94e65cd204c35558dae02d0'}
+  - {seq: 1, role: markers, filename: assets/KR6j0656_001-X.markers.yaml, hash: 'sha256:a270f6bd1d673c303e002a84518a302b443ba4b74365714365b9494086ba51d4'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0656_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 2790
+  label: 作世水宅心陀羅尼
+  type: juan
+  level: 1
+hash: sha256:488c30d80a768523123e113fa9302e8fc5c28502c9a1ac52ac4f5d56a12e9702
