@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0656_000.yaml, hash: 'sha256:169a47f7f73961fd5df418a5a28ac3148e7a01f8b5764e41198a29ccdb685e45'}
-  - {seq: 1, filename: KR6j0656_001.yaml, hash: 'sha256:e802bc91a0a86cb00118736d8a4833141a6b7a8331aa8012cca48e9890242a07'}
+  - {seq: 1, filename: KR6j0656_001.yaml, hash: 'sha256:ef31853049b9bdd0072565b2d0ef023f003c3d9f539911d4c83e2e21750eaa64'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0656_001.markers.yaml, hash: 'sha256:fd9f302af5e4a7f12cfddfc19201e0e11fe7be8d4634ef85a4b15ae470ba608b'}
+  - {seq: 0, role: markers, filename: assets/KR6j0656_000.markers.yaml, hash: 'sha256:1b376008f56aa0e630e8234d87082b95da873c047b39fb3546a54c2e93ea765f'}
+  - {seq: 1, role: markers, filename: assets/KR6j0656_001.markers.yaml, hash: 'sha256:d8b46a9e6528ed0b0dd354ef1c8bd771691664ec884abdee0faa09177044fe88'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 作世水宅心陀羅尼
   type: juan
   level: 1
-hash: sha256:99c6f1bd52fc9eb8eef056cbc9eaa500a94fc2ca420578424606bd5f5f218b9c
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:7cffa9edd3b090a1021cd674cf7365ce8d7444f4b9fe22dc9362fcd62af1fef0
